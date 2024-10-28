@@ -53,4 +53,4 @@ jobs:
           app-name: 'ICCDALabWebAppService'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42577B3560384BF28C255C0F2FEA1D65 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACB2B122D9374ED6B019B5494691FB87 }}
